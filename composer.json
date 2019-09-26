@@ -1,0 +1,27 @@
+{
+
+  "authors":[
+    {
+      "name": "Taras Pinchuk",
+      "email": "vbpiar@gmail.com",
+      "role": "Developer"
+    }
+  ],
+
+  "name": "Game",
+
+  "require": {
+    "php" : ">=7.0 "
+  },
+
+
+  "autoload": {
+    "psr-4": {
+      "kernel\\": "kernel"
+    }
+  }
+
+
+
+
+}
