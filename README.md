@@ -33,4 +33,5 @@ Project structure :
 # Run
 1. Open in direction "/simple_console_php_game/public" terminal.
 2. Run "php idex.php" to get instruction to run script with mode you need
-2.1 To play run "php idex.php -play random_players User Computer"
+
+2.1  To play run "php idex.php -play random_players User Computer"
